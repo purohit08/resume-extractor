@@ -1,0 +1,20 @@
+{
+  "linkedin_url": "https://linkedin.com/in/jane-doe",
+  "skills": [
+    "Python",
+    "FastAPI",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "React",
+    "TypeScript",
+    "CI/CD",
+    "System Design"
+  ],
+  "companies": [
+    "Acme Corp",
+    "Globex Inc",
+    "Initech"
+  ],
+  "total_years_experience": 7.5
+}

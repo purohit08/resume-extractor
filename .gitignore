@@ -1,0 +1,34 @@
+# Secrets — NEVER commit
+.env
+*.key
+
+# Real resume PDFs — privacy
+resumes/*.pdf
+!resumes/.gitkeep
+
+# Generated output
+output/*.json
+!output/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+.Python
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
