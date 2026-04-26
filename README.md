@@ -1,4 +1,4 @@
-markdown# Resume Extractor
+# Resume Extractor
 
 Drop a resume PDF in a folder, get back structured JSON with skills, companies, total years of experience, and LinkedIn URL — powered by the Claude API. Then chat with the resume to ask follow-up questions.
 
